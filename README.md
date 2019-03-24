@@ -1,34 +1,18 @@
 # Tableau_Eviction_Filings
 
-## Multi Factor ANOVA for 8 Business Indices over 18 years
+Eviction in Massachusetts has risen over the years and eviction filings have increased even more dramatically as we shall explore in this visualization. 
 
-###Overview of ANOVA Procedure:
+ ![Eviction Filings](/Users/apple 1/Desktop/FT Applications/Eviction Filings (MA).pdf)
 
-ANOVA (Analysis of Variance) is a statistical procedure of analyzing the
-differences between the group means. In this project of analyzing eight business
-indices over the past 18 years, we intend to use ANOVA method to examine if
-the factors reporting agency and year effect the business index and their
-significance
+In this dashboard, we can see the difference between the number of evictions and eviction filings rising with the years.
+It was observed highest in 2016. 
 
-In addition to the examining the mentioned factors, we aim to study:
+Also, White population has the highest number of renters. 
 
-> Specific Model by considering the dataset as the population, and
-conducting Fixed Effects ANOVA model analysis
-> General Model by considering the dataset as a sample of a larger
-population, and conducting Random Effects ANOVA model analysis
+![Poverty vs. Rent Amount](/Users/apple 1/Documents/IE 5374/poverty vs. rent amount.png)
+We notice that in regions where gross rent is low, the poverty rates are higher. 
 
+Can we identify the cause and effect? 
 
-## Analysis of Factors Affecting Hg Levels in Kuwaiti Fishermen – A Multilinear Regression
+Conclusion: It has been observed that eviction has caused the evicted to lose jobs and develop mental illnesses due to the resulting high stress. It also causes issues in family, especially those with children, forcing them to move in order to afford cheaper education for their children.
 
-###Overview of the Regression Analysis Procedure:
-
-Multi-linear regression analysis is used to find and explain linear relationships
-of the considered predictors with the response variable. In this project we find
-the factors that most influence Total Mercury level in the hair of Fishermen
-since Mercury is a hazardous substance and its content in the human must not
-exceed the safe threshold.
-
-We use best subset selection methods to determine the best predictors and also
-compare models using Adjusted R2 values. Residual plots are employed to
-confirm the viability of our preferred models, check for normality assumptions
-and observe for any unexplained variances.
