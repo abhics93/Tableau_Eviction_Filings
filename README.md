@@ -2,14 +2,14 @@
 
 Eviction in Massachusetts has risen over the years and eviction filings have increased even more dramatically as we shall explore in this visualization. 
 
-![Eviction Filings](https://user-images.githubusercontent.com/46550460/54883815-22c94500-4e40-11e9-9450-bb5ce3edf96b.png)
+![Evicition Filings](https://user-images.githubusercontent.com/46550460/54884348-3e374e80-4e46-11e9-81a7-b17bdd071472.png)
 
 In this dashboard, we can see the difference between the number of evictions and eviction filings rising with the years.
 It was observed highest in 2016. 
 
 Also, White population has the highest number of renters. 
 
-![Povert vs. Rent Amount](https://user-images.githubusercontent.com/46550460/54883801-f57c9700-4e3f-11e9-8e36-0b5a45c99d14.png)
+![Poverty vs. Rent Amount](https://user-images.githubusercontent.com/46550460/54884351-4099a880-4e46-11e9-836d-8d05fa84d0bf.png)
 
 We notice that in regions where gross rent is low, the poverty rates are higher. 
 
