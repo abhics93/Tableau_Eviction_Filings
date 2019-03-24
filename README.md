@@ -15,4 +15,5 @@ We notice that in regions where gross rent is low, the poverty rates are higher.
 
 Can we identify the cause and effect? 
 
-Conclusion: It has been observed that eviction has caused the evicted to lose jobs and develop mental illnesses due to the resulting high stress. It also causes issues in family, especially those with children, forcing them to move in order to afford cheaper education for their children.
+###Conclusion 
+It has been observed that eviction has caused the evicted to lose jobs and develop mental illnesses due to the resulting high stress. It also causes issues in family, especially those with children, forcing them to move in order to afford cheaper education for their children.
